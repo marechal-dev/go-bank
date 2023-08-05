@@ -1,4 +1,4 @@
-# Go Bank API
+# 🏦 Go Bank API
 
 A simple Bank API written in Golang 🤘⚡
 
